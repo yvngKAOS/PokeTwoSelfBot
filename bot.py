@@ -137,4 +137,4 @@ async def on_ready():
             await bot.get_channel(CHANNEL_ID_GOES_HERE).send('<@716390085896962058> p')
             X = 0
 
-bot.run('TOKEN_GOES_HERE')
+bot.run('MTE5NTg0NDk5NzM3MTY3NDY4NQ.G5-XQ_.jmLoV9XGujlpthdkDX9RjGza4BnkWYmceADzOk')
